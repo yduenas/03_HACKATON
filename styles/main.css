@@ -1,0 +1,76 @@
+.section1 {      
+    background-color: #399DAB;    
+    background-image: url('../images/persona-e1533759204552.jpg');
+    background-size: cover; 
+    height:280px; 
+    padding-top:80px;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+.section2 {
+    background-color: #7299FE;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.section3 {
+    background-color: #9022FF;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.section3 h2 {
+    color :green;
+
+}
+.section3 label {
+    color :white;
+}
+
+.section4 {
+    background-color: #FFD233;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.section4 h2 {
+    color :green;
+}
+
+.section5 {
+    background-color: #3F4E62;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+.section5 h2 {
+    color :#98d232;
+}
+
+.section6 {
+    background-color: #1687A0;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+.section6 h2 {
+    color :red;
+}
+
+button {
+    background-color: #3F4E62;
+    color:white;
+}
+
+.a1 {
+    color:white;
+}
+
+a {
+    background-color: #D16DFF;
+    color:white;
+    border: none;
+    text-decoration: none;
+}
+
+h2 , label{
+    text-align: center;
+}
